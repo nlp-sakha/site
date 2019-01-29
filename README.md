@@ -1,3 +1,3 @@
-FLASK_APP=start.py flask run
+docker-compose up
 
-need python 3, gensim, flask
+http://localhost:5000
